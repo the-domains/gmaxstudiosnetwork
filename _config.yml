@@ -1,0 +1,28 @@
+name: gmaxstudiosnetwork
+favicon: null
+layout_spectrum: 0.6685190920252353
+typography_spectrum: 0.9568501729518175
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.672538697021082
+  lightness: 0.42809253721497953
+  saturation: 0.5907109344843775
+  rhythmicContrast: 0.9483363081235439
+purpose: []
