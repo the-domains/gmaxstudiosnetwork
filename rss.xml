@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[gmaxstudiosnetwork]]></title>
         <description><![CDATA[gmaxstudiosnetwork]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gmaxstudiosnetwork/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 10:16:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 10:17:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gmaxstudiosnetwork/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[GMAX STUDIOS NETWORK]]></title>
-            <description><![CDATA[<h1>GMAX STUDIOS NETWORK</h1>]]></description>
-            <link>undefinedgmax-studios-network/index.html</link>
+            <description><![CDATA[<article><h1>GMAX STUDIOS NETWORK</h1><p>This is GMax Studios Network</p></article>]]></description>
+            <link>https://thegrid.ai/gmaxstudiosnetwork/gmax-studios-network/index.html</link>
             <guid isPermaLink="false">cd2fb4aa-a441-4851-a50c-ddd275b0fe61</guid>
-            <pubDate>Wed, 03 Feb 2016 10:16:40 GMT</pubDate>
+            <pubDate>Wed, 03 Feb 2016 10:17:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
