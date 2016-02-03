@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-03T10:16:40.692Z'
-dateModified: '2016-02-03T10:16:06.396Z'
+datePublished: '2016-02-03T10:17:04.061Z'
+dateModified: '2016-02-03T10:16:58.330Z'
 title: GMAX STUDIOS NETWORK
 author: []
 authors: []
